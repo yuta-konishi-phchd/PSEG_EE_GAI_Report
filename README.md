@@ -1,0 +1,2 @@
+# PSEG_EE_GAI_Report
+生成AI活用の記録を残すリポジトリ
